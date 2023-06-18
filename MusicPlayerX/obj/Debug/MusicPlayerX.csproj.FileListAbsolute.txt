@@ -1,0 +1,17 @@
+E:\source\repos\MusicPlayerX\MusicPlayerX\bin\Debug\MusicPlayerX.exe.config
+E:\source\repos\MusicPlayerX\MusicPlayerX\bin\Debug\MusicPlayerX.exe
+E:\source\repos\MusicPlayerX\MusicPlayerX\bin\Debug\MusicPlayerX.pdb
+E:\source\repos\MusicPlayerX\MusicPlayerX\bin\Debug\Interop.WMPLib.dll
+E:\source\repos\MusicPlayerX\MusicPlayerX\bin\Debug\AxInterop.WMPLib.dll
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.csproj.AssemblyReference.cache
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.csproj.SuggestedBindingRedirects.cache
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\Interop.WMPLib.dll
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\AxInterop.WMPLib.dll
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.csproj.ResolveComReference.cache
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.Form1.resources
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.Properties.Resources.resources
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.csproj.GenerateResource.cache
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.csproj.CoreCompileInputs.cache
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.exe
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.pdb
+E:\source\repos\MusicPlayerX\MusicPlayerX\obj\Debug\MusicPlayerX.csproj.CopyComplete
